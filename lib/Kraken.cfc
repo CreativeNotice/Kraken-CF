@@ -113,8 +113,6 @@ component {
 	 */
 	private function send( required struct data, required string uri ) {
 
-		WriteDump( data );
-
 		// Setup the HTTP service
 		var http = new http();
 		http.setMethod( 'post' );
