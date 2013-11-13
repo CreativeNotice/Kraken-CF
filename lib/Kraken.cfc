@@ -26,7 +26,8 @@
 component {
 
 	/**
-	 * @displayname Kraken.io API Settings Store
+	 * @displayname Settings
+	 * @description Kraken.io API Settings Store
 	 */
 	property name='settings' type='struct';
 
