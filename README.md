@@ -3,6 +3,10 @@ Coldfusion library for Kraken.io API
 
 Coldfusion component for working with the Kraken.io image optimization API. Learn more at http://kraken.io and https://github.com/kraken-io.
 
+Differences from other Kraken.io API wrappers
+---------------------------
+The other API wrappers from Kraken.io use `url` and `request` as method names. These are reserved words in Coldfusion so I've used `uri` and `send` respectively.
+
 LICENSE - MIT
 =============
 
