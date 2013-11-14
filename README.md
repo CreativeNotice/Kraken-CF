@@ -7,13 +7,11 @@ Differences from other Kraken.io API wrappers
 ---------------------------
 The other API wrappers from Kraken.io use `url` and `request` as method names. These are reserved words in Coldfusion so I've used `uri` and `send` respectively.
 
-LICENSE - MIT
+Team CF Advance:
 =============
 
-Copyright (c) 2013 Ryan Mueller
+The CF Advance team is focused on developing open source software for ColdFusion/Railo.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Developers of all walks of life, skill level and experience are welcome to join the team. The more participants, the better the outcome will be. So, if you have ideas for open source ColdFusion software, want to be part of like-minded teams of developers working towards building quality solutions for the community, enjoy a good challenge, etc. then join us!
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+http://www.teamcfadvance.org/
